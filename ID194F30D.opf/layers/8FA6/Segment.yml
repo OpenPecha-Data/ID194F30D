@@ -1,0 +1,116 @@
+id: 41b973f9a16d44bfb38e301cd0a8f4a2
+annotation_type: Segment
+revision: '00001'
+annotations:
+  84c14476ca834513ad9099fb2af2d062:
+    span:
+      start: 0
+      end: 43
+  2e3cb3ccef3340cc9b9a6c555e5d4bc9:
+    span:
+      start: 44
+      end: 64
+  f396da69432e49f490751fa146ebe1ca:
+    span:
+      start: 65
+      end: 139
+  9452f568351d43c8be8f056bdb8c5229:
+    span:
+      start: 140
+      end: 160
+  ca03518c7b4444b8970d129b41844963:
+    span:
+      start: 161
+      end: 268
+  94636912dfe140b2abe3e5a1cbdda0b2:
+    span:
+      start: 269
+      end: 306
+  0ab429b30d5540fe885b296ffa3bcc43:
+    span:
+      start: 307
+      end: 357
+  4616046ba9a84bf3be95f67d52853a78:
+    span:
+      start: 358
+      end: 402
+  99a3e0529af74de5806d517bd0c65d4c:
+    span:
+      start: 403
+      end: 463
+  8205c9cdcfc2425caf6b93e94cf69e2d:
+    span:
+      start: 464
+      end: 488
+  944e2f34ec4e4be88354b789259da26c:
+    span:
+      start: 489
+      end: 507
+  eebc849205cd40d28c4ade909266b34d:
+    span:
+      start: 508
+      end: 574
+  d2e47efd8904464b942c18a4eff74d8b:
+    span:
+      start: 575
+      end: 655
+  bf762cc633814bc786a9630c48c9e1e0:
+    span:
+      start: 656
+      end: 693
+  09edf1d77eec412fb72ae9bdbb463617:
+    span:
+      start: 694
+      end: 735
+  8f0ac1e1e3d54dddba3a93c6683e5f0f:
+    span:
+      start: 736
+      end: 777
+  0468cb7fe5fb457195d5b80db60595c6:
+    span:
+      start: 778
+      end: 823
+  9e60e07153694be78dd46f175d207ad0:
+    span:
+      start: 824
+      end: 873
+  f4e0553318c4457b896fba347fae19b0:
+    span:
+      start: 874
+      end: 916
+  7bbd461180594a3aa74ae1a1d8d24049:
+    span:
+      start: 917
+      end: 961
+  f4b4377b18694617804c5d7a011e37ca:
+    span:
+      start: 962
+      end: 1009
+  1351310e3e884838953e3f542164d234:
+    span:
+      start: 1010
+      end: 1052
+  ea91434374154d62a9e6651d649ff0b1:
+    span:
+      start: 1053
+      end: 1106
+  9f55e3a13cc047e5aa52bf2a205fa498:
+    span:
+      start: 1107
+      end: 1186
+  497eb60f8e764632aebb2db032b12295:
+    span:
+      start: 1187
+      end: 1197
+  5aeb629451a2490fa1b4a714a8299288:
+    span:
+      start: 1198
+      end: 1209
+  4618b7c5f7ab44058e55a7174544bec2:
+    span:
+      start: 1210
+      end: 1283
+  c009711f7ec640ae8084186e858fb55c:
+    span:
+      start: 1284
+      end: 1334
